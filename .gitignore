@@ -1,0 +1,11 @@
+bin/
+obj/
+publish/
+.vs/
+
+# Secrets / dades locals: no pujar mai
+settings.json
+client_secret*.json
+*.pfx
+*.env
+.env*
